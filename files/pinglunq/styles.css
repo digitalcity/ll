@@ -1,0 +1,155 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u153_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:647px;
+}
+#u153 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:647px;
+}
+#u154 {
+  position:absolute;
+  left:2px;
+  top:316px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u155_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:6px;
+  height:6px;
+}
+#u155 {
+  position:absolute;
+  left:350px;
+  top:21px;
+  width:6px;
+  height:6px;
+  -webkit-transform:rotate(21deg);
+  -moz-transform:rotate(21deg);
+  -ms-transform:rotate(21deg);
+  transform:rotate(21deg);
+}
+#u156 {
+  position:absolute;
+  left:2px;
+  top:-5px;
+  width:2px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u157_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:6px;
+  height:6px;
+}
+#u157 {
+  position:absolute;
+  left:342px;
+  top:21px;
+  width:6px;
+  height:6px;
+  -webkit-transform:rotate(21deg);
+  -moz-transform:rotate(21deg);
+  -ms-transform:rotate(21deg);
+  transform:rotate(21deg);
+}
+#u158 {
+  position:absolute;
+  left:2px;
+  top:-5px;
+  width:2px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u159_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:6px;
+  height:6px;
+}
+#u159 {
+  position:absolute;
+  left:334px;
+  top:21px;
+  width:6px;
+  height:6px;
+  -webkit-transform:rotate(21deg);
+  -moz-transform:rotate(21deg);
+  -ms-transform:rotate(21deg);
+  transform:rotate(21deg);
+}
+#u160 {
+  position:absolute;
+  left:2px;
+  top:-5px;
+  width:2px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u161 {
+  position:absolute;
+  left:323px;
+  top:8px;
+  width:45px;
+  height:32px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u162 {
+  position:absolute;
+  left:0px;
+  top:7px;
+  width:44px;
+  height:34px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u163 {
+  position:absolute;
+  left:42px;
+  top:607px;
+  width:291px;
+  height:30px;
+}
+#u163_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:291px;
+  height:30px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+  border-color:transparent;
+  outline-style:none;
+}
